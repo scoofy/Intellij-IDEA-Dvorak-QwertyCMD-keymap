@@ -1,0 +1,1 @@
+This is a pretty crappy hack, but it allow you to use OSX's "Dvorak - Qwerty CMD" keyboard setting while using Intellij IDEA. Just import the .jar, and select the Dvorak-QwertyCMD kepmap.
